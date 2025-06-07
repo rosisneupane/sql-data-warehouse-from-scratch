@@ -1,13 +1,13 @@
 # sql-data-warehouse-from-scratch
 Here, I've built a modern data warehouse with SQL Server that includes ETL processes, data modelling as well as analytics
 
-##Project Requirements
+### Project Requirements
 This project involves:
 
-### Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-### ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
-### Data Modeling: Developing fact and dimension tables optimized for analytical queries.
-### Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+ **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+ **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+ **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+ **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 
 
