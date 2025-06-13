@@ -5,6 +5,8 @@ Here, I've built a modern data warehouse with SQL Server that includes ETL proce
 This project involves:
 
  **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+![Chart](docs/data_architecture.png)
+
  
  **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
  
